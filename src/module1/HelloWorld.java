@@ -79,10 +79,7 @@ public class HelloWorld extends PApplet
 	    map2.zoomAndPanTo(zoomLevel, new Location(7.2481f, 80.4466f));
 		MapUtils.createDefaultEventDispatcher(this, map2);
 
-
-
 		// Then you'll modify draw() below
-
 	}
 
 	/** Draw the Applet window.  */
