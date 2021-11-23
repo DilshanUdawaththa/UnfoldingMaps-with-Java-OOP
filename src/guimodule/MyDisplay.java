@@ -1,5 +1,8 @@
 package guimodule;
 
-public class MyDisplay {
+import processing.core.PApplet;
+
+public class MyDisplay extends PApplet {
+	
 
 }
